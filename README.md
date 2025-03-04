@@ -7,7 +7,7 @@
 
 - 🔭 I have experience working on **development of machine learning and deep learning models, employing pre-trained models for the prediction of lead and drug like novel compounds against the protein target of interest.**
 
-- 🌱 I’m currently learning **web scapping, GenAI, web development**
+- 🌱 I’m currently learning **web scapping, GenAI, web development, Magnetic Resonance Imaging (MRI) data analysis using AI**
 
 - 👨‍💻 All of my projects are available at [[google scholar](https://scholar.google.com/citations?user=Zm3DdvkAAAAJ&hl=en)]([google scholar](https://scholar.google.com/citations?user=Zm3DdvkAAAAJ&hl=en))
 
