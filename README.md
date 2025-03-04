@@ -1,11 +1,20 @@
-<h1 align="center">Hello 👋, Dr. Maninder Singh here, welcome to my ScriptsOfLife (mSOL)</h1>
-<h3 align="center">I am a passionate computational biologist with experience in Computer-Aided Drug Design and Artificial Intelligence. I am facinated by the beauty of the complex 3D structures of proteins. I imagine proteins as a human body, their domians as limbs walking and making contacts and shaking hands with partner proteins. They have specialized binding site mouth to enjoy food substrate. Proteins have dynamic personality, feelings and moods like us. Sometimes they do feel happy or sad, making them multitasking or nothing at all, indicating overexpression or reduced expression. Rest I am leaving on you, imagine and explore the beauty of proteins and enjoy it.</h3>
+🚀 Dr. Maninder Singh | ScriptsOfLife (SOL)
+🔬 Computational Biologist | AI in Drug Discovery | MRI Data Analysis Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ScriptsOfLife&label=Profile%20views&color=0e75b6&style=flat" alt="ScriptsOfLife" /> </p>
+Hello 👋, and welcome to ScriptsOfLife!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ScriptsOfLife" alt="ScriptsOfLife" /></a> </p>
+I am a passionate computational biologist with expertise in Computer-Aided Drug Design (CADD) and Artificial Intelligence (AI). The fascinating world of proteins inspires me—they are like human beings, with their domains acting as limbs, binding sites as mouths, and dynamic personalities that dictate their interactions. Some proteins are workaholics (overexpression), while others take long breaks (reduced expression). Their sensual touch and cuddling with the DNA shapes the life. These small machineries are the most beautiful creations of the god and Sometimes needs care form us. Imagine, explore, and enjoy the beauty of proteins with me! 🧬✨
 
-- 🔭 I have experience working on **development of machine learning and deep learning models, employing pre-trained models for the prediction of lead and drug like novel compounds against the protein target of interest.**
+
+🔭 My Work & Research Interests
+
+    💻 🌿 Computer Aided Drug Design - Structure-Based & Ligand-Based Drug Design
+    
+    🧪 🤖 AI-driven Drug Discovery – Predicting lead-like and drug-like novel compounds.
+    
+    📊 Data Science for Biomedical Research – AI-driven medical insights.
+    
+    💻 🧬 MRI Data Analysis – Applying AI to Multiparametric MRI (mpMRI).
 
 - 🌱 I’m currently learning **web scapping, GenAI, web development, Magnetic Resonance Imaging (MRI) data analysis using AI**
 
